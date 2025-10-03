@@ -1,12 +1,18 @@
-# React + Vite
+# Echos
+**`Full Stack Project`**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project was inspired by my own experience with pregnancy loss and was created as a personal way to process grief while offering a safe space for others to do the same. Built with React and Tailwind CSS, the app allows users to customize their experience through background and font changes, release their words instantly  by a button click or let them disappear as typing stops by toggling disappearing mode, and optionally save reflections locally as a .txt file. My goal with this project is to combine thoughtful design with functionality to provide a simple, private outlet for emotional release.
 
-Currently, two official plugins are available:
+![Echo Railroad & Whisper page](readMe_Images/railroad.png)
+![Echo Shout at the Stars page](readMe_Images/stars.png)
+![Echo text file save](readMe_Images/txt.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+- Developed and tested responsive webpages using Tailwind CSS and React for the frontend.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Provided drop down selections to change background image and text color & font.
+
+- Options provided to erase text all at once by react scatter effect or toggle automatic character by character elimination.
+
+- Intergrated save feature to store text in a txt file.
+
